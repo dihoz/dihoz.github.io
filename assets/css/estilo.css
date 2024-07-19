@@ -1,6 +1,7 @@
 .encabezado{
     background-color: black;
     color: aliceblue;
+    text-align: center;
 }
 /*
 h1{
@@ -9,5 +10,8 @@ h1{
 
 }*/
 #Capibara{
-   width:  30px;
+   width:  600px;
+   align-content: center;
+   align-items: center;
+   text-align: center;
 }
